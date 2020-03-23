@@ -12,3 +12,12 @@
 
 其他的两个文档见项目内。
 
+
+Within this repository there are 3 items:
+
+- Cracked Cobalt Strike 4.0(Fixed exit issue & x64 stager generation bug in `Attacks -> Packages -> Windows Executable`). You can find download link in this blog: 
+[cobaltstrike4.0 cracked](https://www.cnblogs.com/ssooking/p/12535998.html?from=timeline)
+- The Cobalt Strike 4.0 Mannual Chinese translation(proudly by my team and me).
+- Some Notes about how to use Cobalt Strike especially 4.0 version written in Chinese(sorry for no English version). 
+
+enjoy :0)
